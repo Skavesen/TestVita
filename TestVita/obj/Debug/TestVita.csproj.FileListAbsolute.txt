@@ -1,0 +1,10 @@
+C:\Users\vadim\source\repos\TestVita\TestVita\bin\Debug\TestVita.exe.config
+C:\Users\vadim\source\repos\TestVita\TestVita\bin\Debug\TestVita.exe
+C:\Users\vadim\source\repos\TestVita\TestVita\bin\Debug\TestVita.pdb
+C:\Users\vadim\source\repos\TestVita\TestVita\obj\Debug\TestVita.csprojAssemblyReference.cache
+C:\Users\vadim\source\repos\TestVita\TestVita\obj\Debug\TestVita.Form1.resources
+C:\Users\vadim\source\repos\TestVita\TestVita\obj\Debug\TestVita.Properties.Resources.resources
+C:\Users\vadim\source\repos\TestVita\TestVita\obj\Debug\TestVita.csproj.GenerateResource.cache
+C:\Users\vadim\source\repos\TestVita\TestVita\obj\Debug\TestVita.csproj.CoreCompileInputs.cache
+C:\Users\vadim\source\repos\TestVita\TestVita\obj\Debug\TestVita.exe
+C:\Users\vadim\source\repos\TestVita\TestVita\obj\Debug\TestVita.pdb
